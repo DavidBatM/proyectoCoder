@@ -6,7 +6,6 @@ import {Paginas} from "./componentes/Paginas";
 import { DataProvider }from "./context/DataProvider";
 import { Carrito } from "./componentes/Carrito";
 
-
 function App() {
   return (
     <DataProvider >
